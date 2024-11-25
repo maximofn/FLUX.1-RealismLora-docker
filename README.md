@@ -2,7 +2,7 @@
 
 Dockerization of the [Hugging Face FLUX.1-RealismLora Space](https://huggingface.co/spaces/DamarJati/FLUX.1-RealismLora)
 
-![FLUX.1-RealismLora](assets/FLUX.1 RealismLora.png)
+![FLUX.1-RealismLora](https://raw.githubusercontent.com/maximofn/FLUX.1-RealismLora-docker/refs/heads/main/assets/FLUX.1%20RealismLora.png)
 
  * Space: [https://huggingface.co/spaces/DamarJati/FLUX.1-RealismLora](https://huggingface.co/spaces/DamarJati/FLUX.1-RealismLora)
 
