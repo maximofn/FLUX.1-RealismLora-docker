@@ -1,0 +1,13 @@
+version: "3.8"
+
+services:
+  flux-1-realismlora:
+    container_name: flux-1-realismlora
+    image: maximofn/flux-1-realismlora:1.0.0
+    build: .
+    runtime: nvidia
+    network_mode: "host"
+    volumes:
+      - ./hub:/root/.cache/huggingface/hub
+    tty: true
+    stdin_open: true

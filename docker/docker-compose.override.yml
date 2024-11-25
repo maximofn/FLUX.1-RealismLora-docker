@@ -1,0 +1,5 @@
+version: "3.8"
+
+services:
+  flux-1-realismlora:
+    entrypoint: ["bash", "-c", "python app.py"]
